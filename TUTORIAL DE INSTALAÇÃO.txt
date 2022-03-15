@@ -1,0 +1,14 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~TUTORIAL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1 BAIXE O ARQUIVO RUN_FIX2.C3P
+
+2 ABRA O SITE CONSTRUCT 3 E CLIQUE EM LAUNCH CONSTRUCT3 E DEPOIS EM LAUNCH THE GUIDED TOUR 
+
+3 CLIQUE EM AGORA NÃO OBRIGADO 
+
+4 CLIQUE EM ARQUIVO E ESCOLHA O RUN_FIX2.C3P
+
+5 CLIQUE EM PLAY 
+
+6 DIVIRTA-SE
